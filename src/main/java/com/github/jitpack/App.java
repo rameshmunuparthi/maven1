@@ -1,4 +1,4 @@
-package com.github.jitpack;
+  package com.github.jitpack;
 
 /**
  * Hello world!
